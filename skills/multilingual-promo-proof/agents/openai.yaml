@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multilingual Promo Proof"
+  short_description: "Check localized poster offers against an approved campaign sheet"
+  default_prompt: "Use $multilingual-promo-proof to audit these poster exports against my approved campaign sheet and show the evidence."
