@@ -1,0 +1,13 @@
+asset,market,sku,price,currency,discount,end_date
+US-square.png,US,ARC-01,59.00,$,SAVE 20%,NOV 30
+US-story.png,US,ARC-01,59.00,$,SAVE 20%,NOV 30
+US-wide.png,US,ARC-01,59.00,$,SAVE 20%,NOV 30
+DE-square.png,DE,ARC-01,"59,00",€,20 % RABATT,30. NOV.
+DE-story.png,DE,ARC-01,"59,00",€,20 % RABATT,30. NOV.
+DE-wide.png,DE,ARC-01,"59,00",€,20 % RABATT,30. NOV.
+FR-square.png,FR,ARC-01,"59,00",€,−20 %,30 NOV.
+FR-story.png,FR,ARC-01,"59,00",€,−20 %,30 NOV.
+FR-wide.png,FR,ARC-01,"59,00",€,−20 %,30 NOV.
+KR-square.png,KR,ARC-01,"79,000",₩,20% 할인,11월 30일
+KR-story.png,KR,ARC-01,"79,000",₩,20% 할인,11월 30일
+KR-wide.png,KR,ARC-01,"79,000",₩,20% 할인,11월 30일
